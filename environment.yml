@@ -1,0 +1,10 @@
+name: diy-components
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - cadquery>=2.4.0
+      - cadquery-ocp>=7.7.0

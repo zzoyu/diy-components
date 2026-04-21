@@ -1,0 +1,1 @@
+"""Mechanical components package."""
