@@ -1,6 +1,7 @@
 # 3D Printing DIY Components
 
-CadQuery 기반 3D 프린팅 설계 컴포넌트 모음 Repository
+CadQuery, Build123d 기반 3D 프린팅 설계 컴포넌트 모음 Repository
+둘 다 조금 깔짝거려보다가 마음에 드는 라이브러리로 정착 예정
 
 ## 디렉터리 구조
 
@@ -25,3 +26,8 @@ diy-components/
 conda env create -f environment.yml
 conda activate diy-components
 ```
+
+# FYI
+
+- [CadQuery Documentation](https://cadquery.readthedocs.io/en/latest/index.html)
+- [Build123d Documentation](https://build123d.readthedocs.io/en/latest/index.html)
