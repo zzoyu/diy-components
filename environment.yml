@@ -10,3 +10,5 @@ dependencies:
       - cadquery-ocp>=7.7.0
       - build123d>=0.10.0
       - pytest
+      - build123d
+      - build123d-ocp
